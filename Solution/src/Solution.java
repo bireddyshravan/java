@@ -19,6 +19,7 @@ public class Solution {
 		
 		ArrayList<String> input = new ArrayList<String>();
 		input.add("rat");
+		input.add("bat");
 		input.add("cat");
 		input.add("cats");
 		input.add("dog");
